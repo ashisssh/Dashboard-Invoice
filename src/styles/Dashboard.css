@@ -1,0 +1,13 @@
+.dashboard {
+  display: flex;
+}
+
+.main-content {
+  width: 100%;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}

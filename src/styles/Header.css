@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+    gap: 10px;
+  }
+  
+  .review-dropdown {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .search-input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .header-btn {
+    background: #6c44d9;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .header-btn:hover {
+    background: #5533a7;
+  }
+  
